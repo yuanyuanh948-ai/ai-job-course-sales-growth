@@ -1,0 +1,12 @@
+# Local raw survey exports with student IDs / WeChat nicknames.
+work/first_cohort_survey.csv
+work/first_cohort_survey.xlsx
+
+# Extracted/source materials and local bulky artifacts.
+work/job_project_materials/
+work/pdf_extract/
+work/nuwa-skill.zip
+
+# OS/editor noise.
+.DS_Store
+Thumbs.db
