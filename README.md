@@ -6,6 +6,8 @@
 
 - `docs/ai-job-growth-sales-strategy.md`
   - 本轮关于老学员二转、公域社群、两条漏斗和销售分层的策略归档。
+- `docs/public-traffic-community-operation-plan.md`
+  - 公域社群运营方案，包含 17:00 固定投送 SOP、两周滚动内容池、触发词、私信分层和公开课预热链路。
 - `outputs/AI就业班课程与服务价值拆解-销售团队沟通版.md`
   - 核心源文档，面向销售团队，把课程和服务拆成“痛点、收获、就业价值、可见产出、销售表达”。
 - `outputs/AI就业班课程与服务价值拆解-销售团队沟通版.html`
