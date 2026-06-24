@@ -8,6 +8,8 @@
   - 本轮关于老学员二转、公域社群、两条漏斗和销售分层的策略归档。
 - `docs/public-traffic-community-operation-plan.md`
   - 公域社群运营方案，包含 17:00 固定投送 SOP、两周滚动内容池、触发词、私信分层和公开课预热链路。
+- `outputs/AI就业班公域社群运营方案_完整版_20260623.xlsx`
+  - 公域社群运营方案的完整 Excel 表，拆分为总览、角色分工、每日 SOP、两周排期、14 天投送话术、触发词、私信分层、公开课预热、诊断机制和数据看板。
 - `outputs/AI就业班课程与服务价值拆解-销售团队沟通版.md`
   - 核心源文档，面向销售团队，把课程和服务拆成“痛点、收获、就业价值、可见产出、销售表达”。
 - `outputs/AI就业班课程与服务价值拆解-销售团队沟通版.html`
@@ -29,6 +31,8 @@
   - 从 Guizang Swiss 模板生成网页 PPT 和逐页讲稿。
 - `work/build-sales-training-pptx.py`
   - 生成常规 `.pptx` 文件。
+- `work/build-public-traffic-community-xlsx.py`
+  - 从 `docs/public-traffic-community-operation-plan.md` 生成完整社群运营 Excel 表。
 
 ## 重新生成命令
 
@@ -36,6 +40,7 @@
 node work\build-sales-html.mjs
 node work\build-guizang-sales-training-deck.mjs
 python work\build-sales-training-pptx.py
+python work\build-public-traffic-community-xlsx.py
 ```
 
 ## 验证命令
